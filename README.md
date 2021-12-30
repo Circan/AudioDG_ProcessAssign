@@ -1,5 +1,5 @@
 # AudioDG_ProcessAssign
-## The goal of this software is to fix the 'robotic clipping' issue with VoiceMeeter on certain multicore systems, especially with regard to microphones.
+## The goal of this script is to fix the 'robotic clipping' issue with VoiceMeeter on certain multicore systems, especially with regard to microphones, and automate script execution.
 #### → Your results may vary, but I hope it works for you!
 
 ###  How it works:
